@@ -88,6 +88,11 @@ Random Forest model achieved:
 
 ---
 
+## Project motivation:
+This project was created as part of my learning journey in data science and machine learning. 
+The focus was to understand real-world cybersecurity data, explore class imbalance challenges, and apply suitable machine learning techniques. 
+All code and analysis are original and tailored to problem-solving.
+
 ## 👩‍💻 Author
 
 Sacide Tekin  
