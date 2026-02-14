@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+
 # Cybersecurity Attack Analysis using Machine Learning
 
 ## 📌 Project Overview
